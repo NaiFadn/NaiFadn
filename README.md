@@ -1,7 +1,7 @@
 <img height="300" width="350%" src="https://4.bp.blogspot.com/-yWCee53sU30/XC5omi6asoI/AAAAAAAAUqA/y93yqvfqNHc7LLgArn1PJySBV-0YFbSzQCLcBGAs/s1600/24.gif"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Oii,+Meu+nome+e+Naiara+Fernandes;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Oii,+Meu+nome+é+Naiara+Fernandes;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
