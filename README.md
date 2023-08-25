@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NaiFadn&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NaiFadn&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="NaiFadn github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiFadn&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
@@ -13,7 +13,7 @@
 <h4> Conecte-se Comigo </h4>
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/naii.fadn/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/Naii-Naru#9517/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/naicristinapz/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/Naii-Naru#9517/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naiara-fernandes-232422289/)
 
 #
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img height="100px" width="50%" src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-linha-10.gif">
+  <img height="100" width="450" src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-linha-10.gif">
 </p>
 
 
